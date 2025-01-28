@@ -1,0 +1,21 @@
+C:\Users\Admin\Downloads\curriculum-based-course-timetabling-master3\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\obj\Debug\Curriculum-Based_Course-timetabling.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\curriculum-based-course-timetabling-master3\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\obj\Debug\Curriculum-Based_Course-timetabling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\curriculum-based-course-timetabling-master3\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\Curriculum-Based_Course-timetabling.exe.config
+C:\Users\Admin\Downloads\curriculum-based-course-timetabling-master3\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\obj\Debug\Curriculum-Based_Course-timetabling.exe
+C:\Users\Admin\Downloads\curriculum-based-course-timetabling-master3\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\obj\Debug\Curriculum-Based_Course-timetabling.pdb
+C:\Users\Admin\Downloads\curriculum-based-course-timetabling-master3\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\Curriculum-Based_Course-timetabling.exe
+C:\Users\Admin\Downloads\curriculum-based-course-timetabling-master3\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\Curriculum-Based_Course-timetabling.pdb
+C:\Users\Lenovo\Desktop\FINAL Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\obj\Debug\Curriculum-Based_Course-timetabling.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\FINAL Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\obj\Debug\Curriculum-Based_Course-timetabling.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\FINAL Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\Curriculum-Based_Course-timetabling.exe.config
+C:\Users\Lenovo\Desktop\FINAL Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\obj\Debug\Curriculum-Based_Course-timetabling.exe
+C:\Users\Lenovo\Desktop\FINAL Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\obj\Debug\Curriculum-Based_Course-timetabling.pdb
+C:\Users\Lenovo\Desktop\FINAL Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\Curriculum-Based_Course-timetabling.exe
+C:\Users\Lenovo\Desktop\FINAL Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\Curriculum-Based_Course-timetabling.pdb
+C:\Users\Admin\Desktop\Lecture timetabling\Versioni FINAL Algorithm Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\obj\Debug\Curriculum-Based_Course-timetabling.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lecture timetabling\Versioni FINAL Algorithm Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\obj\Debug\Curriculum-Based_Course-timetabling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lecture timetabling\Versioni FINAL Algorithm Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\Curriculum-Based_Course-timetabling.exe.config
+C:\Users\Admin\Desktop\Lecture timetabling\Versioni FINAL Algorithm Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\obj\Debug\Curriculum-Based_Course-timetabling.exe
+C:\Users\Admin\Desktop\Lecture timetabling\Versioni FINAL Algorithm Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\obj\Debug\Curriculum-Based_Course-timetabling.pdb
+C:\Users\Admin\Desktop\Lecture timetabling\Versioni FINAL Algorithm Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\Curriculum-Based_Course-timetabling.exe
+C:\Users\Admin\Desktop\Lecture timetabling\Versioni FINAL Algorithm Lecture Timetabling\curriculum-based-course-timetabling-master\Curriculum-Based_Course-timetabling\Curriculum-Based_Course-timetabling.pdb
